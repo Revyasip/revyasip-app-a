@@ -55,9 +55,6 @@ revya-sip/
 - jQuery
 - Python (Server)
 
-### 📱 Screenshots
-
-[Add your app screenshots here]
 
 ### 🤝 Contributing
 
